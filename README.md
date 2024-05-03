@@ -45,7 +45,7 @@ N.B: It supports only in android version 4.0 or later.
 ![](https://img.shields.io/github/issues/imshakil/BloodBank.svg)
 
 # Database Snapshot
-Follow this link: https://github.com/imShakil/BloodBank/wiki/Database-Snapshots
+Follow this link: https://github.com/Devb1234/BloodBank/wiki/Database-Snapshots
 (This project can be used for any educational purpose and can be changed or modified in need.<br><b> A star will be appriciated if you think it might be helpful.</b>)<br>
 
 # Changing Database and Package Name
@@ -59,12 +59,8 @@ You must need to create pull request to that specific branch to get it merged.
 
 # Support
 
-If you would like to support this project for better version, you can give some support [here](https://buymeacoffee.com/imshakil).
+If you would like to support this project for better version, you can give some support [here](https://buymeacoffee.com/Devb1234).
 
-
-Thanks
-
-Regards ~ Shakil
 
 
 
