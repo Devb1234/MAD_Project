@@ -24,7 +24,7 @@ Included:
 You can install this application to test on your android smartphone. To download the signed application go to your chrome browser and copy-paste the download link:
 
 ```
-https://github.com/imShakil/BloodBank/releases/latest/download/blood-point.apk
+https://github.com/Devb1234/BloodBank/releases/latest/download/blood-point.apk
 ```
 
 Download will be started automatically. After then install it on your android device.
@@ -54,7 +54,7 @@ I got so many mails on about 'How to change Database link and Package Name'. So,
 
 # Contribution
 
-If you would like to contribute in this project, you are always welcome. There is no `code` avilable in the `master` branch. Please `switch` specific version and make changes there. For example, the latest dev version is: https://github.com/imShakil/BloodBank/tree/2.1
+If you would like to contribute in this project, you are always welcome. There is no `code` avilable in the `master` branch. Please `switch` specific version and make changes there. For example, the latest dev version is: https://github.com/Devb1234/BloodBank/tree/2.1
 You must need to create pull request to that specific branch to get it merged.
 
 # Support
